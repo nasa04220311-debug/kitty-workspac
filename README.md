@@ -5,7 +5,6 @@
 
 ## 專案結構
 - `Untitled29.ipynb`：主要的 Python 資料處理與分析 Jupyter Notebook 筆記本。
-- `FF練習.docx`：實驗記錄與相關數據分析說明文件。
 - `chart_df2.png`：透過 Matplotlib 產出的資料視覺化圖表（差旅費 > 4000 明細金額分析）。
 
 ## 使用技術
